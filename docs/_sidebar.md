@@ -1,5 +1,5 @@
  - Header
-    - [About Mordor](about_mordor.md)
     - [More pageses](README.md)
-  - Another header
+    - [About Mordor](about_mordor.md)
+ - Another header
     - Indented
