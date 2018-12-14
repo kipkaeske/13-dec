@@ -10,8 +10,8 @@ Also avoid:
 - Elves
 - Nasgul
 
-Good to eat are:
+Good to eat:
 
 - Hobbits
-- Spiders
-- Small humans
+- Fish
+- Bones
